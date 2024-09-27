@@ -3,4 +3,7 @@ rabbit
 cat
 snake
 lizard
+frog
+bee
+parrot
 
