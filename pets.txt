@@ -1,3 +1,6 @@
 bulldog
 rabbit
 cat
+snake
+lizard
+
